@@ -1,0 +1,15 @@
+target
+__pycache__
+*.pyc
+.cache
+
+runc
+.ipynb_checkpoints
+*.lut
+*.tif
+*.png
+application.xml
+input.ipynb.py*
+S1A_IW_GRDH_1SDV_20171210T182024_20171210T182049_019644_021603_0A33_Beta0_VV.xml
+*.properties
+S1*
