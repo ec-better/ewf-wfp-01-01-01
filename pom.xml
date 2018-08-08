@@ -11,7 +11,7 @@
     <version>3.0.1-docker</version>
   </parent>
   <description>Sentinel-1 backscatter timeseries</description>
-  <version>1.8</version>
+  <version>1.9</version>
   <properties>
     <summary>Sentinel-1 backscatter timeseries</summary>
     <description>Sentinel-1 backscatter timeseries</description>
